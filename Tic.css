@@ -1,0 +1,35 @@
+h1 {
+    color: #000000;
+    font-size: 45px;
+}
+    
+#main {
+    text-align: center;
+}
+    
+#b1, #b2, #b3, #b4, #b5, 
+#b6, #b7, #b8, #b9 {
+    width: 90px;
+    height: 90px;
+    margin: auto;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 6px;
+    font-size: 30px;
+    text-align: center;
+    background-color: rgb(11, 207, 142);
+}
+  
+#print {
+    font-family: Verdana, 
+        Geneva, Tahoma, sans-serif;
+  
+    color: dodgerblue;
+    font-size: 20px;
+}
+  
+#ins {
+    font-family: Verdana, 
+        Geneva, Tahoma, sans-serif;        
+    color: dodgerblue;
+    font-size: 17px;
+}
